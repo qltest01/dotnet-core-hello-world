@@ -1,6 +1,6 @@
 using System;
 
-namespace git
+namespace dotnet_core_hello_world
 {
     class Program
     {
